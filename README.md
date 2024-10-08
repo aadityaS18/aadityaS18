@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm AADITYA SHANAKAR</h1>
+<h1 align="center">Hi 👋, I'm AADITYA SHANKAR</h1>
 <h3 align="center">A passionate AI/ML Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityas18&label=Profile%20views&color=0e75b6&style=flat" alt="aadityas18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityas18" alt="aadityas18" /></a> </p>
-
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT WITH GENAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadityaS18](https://github.com/aadityaS18)
 
