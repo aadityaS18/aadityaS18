@@ -7,11 +7,7 @@ AI / ML Engineer · Full-Stack Developer · Intelligent Systems Builder
 <em>Turning data, models, and systems into real-world products.</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aadityas18&theme=onedark&row=1&column=6" />
-  </a>
-</p>
+
 
 <hr/>
 
