@@ -52,12 +52,6 @@ AI / ML Engineer · Full-Stack Developer · Intelligent Systems Builder
   <li>Focused on explainability and disciplined decision support rather than black-box signals</li>
 </ul>
 
-<b>✋ Sign Language to Speech Translator (In Progress)</b><br/>
-<em>Python · OpenCV · MediaPipe · TTS</em>
-<ul>
-  <li>Real-time hand gesture recognition for translating sign language into spoken output</li>
-  <li>Exploring temporal gesture modeling and computer vision pipelines</li>
-</ul>
 
 <b>📊 AI-Powered Job Search Assistant</b><br/>
 <em>Python · Web Scraping · Gradio · IBM watsonx</em>
